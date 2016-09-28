@@ -1,0 +1,1 @@
+public class PathSum1_2 {}
